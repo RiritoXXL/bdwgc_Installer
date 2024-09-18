@@ -1,2 +1,2 @@
 # bdwgc_Installer
-bdwgc_Installer by RiritoXXL
+This is my first Installer for Library GC(bdwgc)... So Enjoy to use!!!
